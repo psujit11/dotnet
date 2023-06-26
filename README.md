@@ -1,2 +1,3 @@
 # dotnet
-lab asssignments of dotnet
+Journey for dotnet
+
