@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "g:\\csharp\\yt\\chapter1\\HelloCS\\HelloCS.csproj",
+      "projectUniqueName": "e:\\dot repo\\dotnet\\HelloCS\\HelloCS.csproj",
       "projectName": "HelloCS",
-      "projectPath": "g:\\csharp\\yt\\chapter1\\HelloCS\\HelloCS.csproj",
+      "projectPath": "e:\\dot repo\\dotnet\\HelloCS\\HelloCS.csproj",
       "packagesPath": "C:\\Users\\poude\\.nuget\\packages\\",
-      "outputPath": "g:\\csharp\\yt\\chapter1\\HelloCS\\obj\\",
+      "outputPath": "e:\\dot repo\\dotnet\\HelloCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\poude\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\csharp\\yt\\chapter1\\hellocs\\HelloCS.csproj": {}
+    "e:\\dot repo\\dotnet\\HelloCS\\HelloCS.csproj": {}
   },
   "projects": {
-    "G:\\csharp\\yt\\chapter1\\hellocs\\HelloCS.csproj": {
+    "e:\\dot repo\\dotnet\\HelloCS\\HelloCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\csharp\\yt\\chapter1\\hellocs\\HelloCS.csproj",
+        "projectUniqueName": "e:\\dot repo\\dotnet\\HelloCS\\HelloCS.csproj",
         "projectName": "HelloCS",
-        "projectPath": "G:\\csharp\\yt\\chapter1\\hellocs\\HelloCS.csproj",
+        "projectPath": "e:\\dot repo\\dotnet\\HelloCS\\HelloCS.csproj",
         "packagesPath": "C:\\Users\\poude\\.nuget\\packages\\",
-        "outputPath": "G:\\csharp\\yt\\chapter1\\hellocs\\obj\\",
+        "outputPath": "e:\\dot repo\\dotnet\\HelloCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\poude\\AppData\\Roaming\\NuGet\\NuGet.Config",
