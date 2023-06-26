@@ -1,7 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 using System.Collections.Generic;
-using LearnCollection;  
+using LearnCollection; 
+using Access; 
 
 // Note: actual namespace depends on the project name.
 
@@ -11,6 +12,7 @@ class Program
         {
             Collection collections = new Collection();    
             collections.LearnDictionary();
+           
 
         }
     }

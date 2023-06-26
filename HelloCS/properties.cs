@@ -1,12 +1,13 @@
 using System;
-internal class Person{
+internal class Person
+{
     private byte  age;
     private int grade;
     public string names;
     public string address;
     DateTime dob;
 
-    // getter setter
+    // getter setter 
 
     public byte Age
     {

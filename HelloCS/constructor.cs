@@ -23,7 +23,8 @@ namespace AllAboutClasses
             Name = name;
         }
         // for read-only contant parameter ma double area ahni tala same way ma assign garney.
-        public Country (string name, string countryCode, int population )  {
+        public Country (string name, string countryCode, int population ) 
+        {
             Name = name;
             CountryCode = countryCode;
             Population = population;
