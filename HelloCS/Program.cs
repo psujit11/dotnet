@@ -1,17 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.Collections.Generic;
+using LearnCollection;  
 
- // Note: actual namespace depends on the project name.
+// Note: actual namespace depends on the project name.
 
-     class Program
+class Program
     {
-        static void Main1(string[] args)
+        static void Main()
         {
-            // Console.Write("meishero");
-            // Console.WriteLine("Hello C#");
-            Console.Write("Enter your name");
-            string x = Console.ReadLine();
-            Console.WriteLine("hi, " + x);
+            Collection collections = new Collection();    
+            collections.LearnDictionary();
+
         }
     }
 

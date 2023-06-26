@@ -13,3 +13,18 @@ G:\csharp\yt\chapter1\HelloCS\obj\Debug\net7.0\refint\HelloCS.dll
 G:\csharp\yt\chapter1\HelloCS\obj\Debug\net7.0\HelloCS.pdb
 G:\csharp\yt\chapter1\HelloCS\obj\Debug\net7.0\HelloCS.genruntimeconfig.cache
 G:\csharp\yt\chapter1\HelloCS\obj\Debug\net7.0\ref\HelloCS.dll
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\HelloCS.csproj.AssemblyReference.cache
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\HelloCS.AssemblyInfoInputs.cache
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\HelloCS.AssemblyInfo.cs
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\HelloCS.csproj.CoreCompileInputs.cache
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\HelloCS.dll
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\refint\HelloCS.dll
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\HelloCS.pdb
+E:\dot repo\dotnet\hellocs\bin\Debug\net7.0\HelloCS.exe
+E:\dot repo\dotnet\hellocs\bin\Debug\net7.0\HelloCS.deps.json
+E:\dot repo\dotnet\hellocs\bin\Debug\net7.0\HelloCS.runtimeconfig.json
+E:\dot repo\dotnet\hellocs\bin\Debug\net7.0\HelloCS.dll
+E:\dot repo\dotnet\hellocs\bin\Debug\net7.0\HelloCS.pdb
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\HelloCS.genruntimeconfig.cache
+E:\dot repo\dotnet\hellocs\obj\Debug\net7.0\ref\HelloCS.dll

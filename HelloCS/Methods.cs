@@ -76,7 +76,7 @@ public class MethodTeacher
 
 public class MethodTester
 {
-    static void Main()
+    static void Main12345()
 
     {
         int[] bumpers = new int[] { 20, 30, 1, 99, 67 };
