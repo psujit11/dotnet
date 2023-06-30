@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": ".hellocs",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/HelloCS/bin/Debug/net7.0/HelloCS.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/HelloCS",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "name": "LINQ App",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/LINQ/bin/Debug/net7.0/LINQ.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/LINQ",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+    ]
+}

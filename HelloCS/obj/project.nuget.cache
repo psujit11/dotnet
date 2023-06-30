@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4OSe7DHSVVm0/V068w7RX6Q/BqBCZPJYxNuDPb8/gqNmz+OLIqpCEHKUAz7f0K+hpF34gqIxdbDf7/5J2N+8w==",
+  "dgSpecHash": "PPH3IxgWp9qV6/0buzo2Gs/ryY46INpWGZY3okIACDM1rpd2554DL8kNeIwNTLEFpWsJZZf1qzETWaboDXCcaw==",
   "success": true,
-  "projectFilePath": "E:\\dot repo\\dotnet\\hellocs\\HelloCS.csproj",
+  "projectFilePath": "E:\\dot repo\\dotnet\\HelloCS\\HelloCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
