@@ -13,13 +13,13 @@ class Program
            // Collection collections = new Collection();    
            // collections.LearnDictionary();
 
-           Square square= new Square(23.45);
-           Square square1= new Square(12);
+           //Square square= new Square(23.45);
+           //Square square1= new Square(12);
            Square square2= new Square(0.99);
-           
-           var sqaureArea= square2.GetArea();
+           var rectangle = new Rectangle(23.5,12.2); 
+           square2.PrintResult();
+           rectangle.PrintResult();
 
-           Console.WriteLine($" The area of Sqaure is {sqaureArea}");
         }
     }
 
