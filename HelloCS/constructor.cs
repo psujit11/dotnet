@@ -37,12 +37,15 @@ namespace AllAboutClasses
         {
             IsOnEarth = true;
         }
-    public class Demo{
+
+    public class Demo
+        {
          void DoSomething()
          {  
             Country country1= new Country(); 
             Country country2= new Country("Nepal");
             // static member can be directkly access from class onll cant be accessed from insatnce. 
          }
+        }
     }
 }
