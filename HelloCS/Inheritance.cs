@@ -64,6 +64,7 @@ public class Circle: Shape
 }
 
 /* summary class ko naming standard use garya xaina.
+    class is inherited and interface is implemented.
  class a
  {}
   
