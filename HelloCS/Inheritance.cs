@@ -89,6 +89,6 @@ c# dooes not support multilple inheritance
 
  class e:IA,IB 
 // multiple inheritance achieved by using  interface in c#.
-
+*/
 
 
