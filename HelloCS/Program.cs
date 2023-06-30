@@ -15,10 +15,17 @@ class Program
 
            //Square square= new Square(23.45);
            //Square square1= new Square(12);
-           Square square2= new Square(0.99);
+           /*Square square2= new Square(0.99);
            var rectangle = new Rectangle(23.5,12.2); 
            square2.PrintResult();
-           rectangle.PrintResult();
+           rectangle.PrintResult();*/
+
+           FileIO file = new FileIO();
+           //file.LearnFileReading();  
+           //file.LearnFileWriting(); 
+           //file.LearnFileInfo();
+           file.LearnDirectory();
+
 
         }
     }
